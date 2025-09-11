@@ -1,1 +1,1 @@
-# Analytics_2_Elementos_Visuais_Construindo_Gr-ficos_em_Python
+# Analytics 2: Elementos Visuais - Construindo Gráficos em Python
